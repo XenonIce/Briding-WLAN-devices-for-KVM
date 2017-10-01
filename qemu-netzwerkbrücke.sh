@@ -38,7 +38,7 @@ sysctl net.ipv4.ip_forward=1
 #Erstelle Tap-Interface
 tunctl -t $tap_interface -u $username
 
-ip link set dev tap0 address $mac_adresse
+ip link set dev $tap_interface address $mac_adresse
 
 #Aktiviere arp
 sysctl net.ipv4.conf.$tap_interface.proxy_arp=1
