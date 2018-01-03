@@ -2,8 +2,8 @@
 
 #-----------------------------------------------------------------------
 #Ein Skript welches Netzwerkbrücken konfiguriert
-#Copyright (C) 2017 Konstantin Wagner
-#konstantinwagner@yahoo.de
+#Copyright (C) 2017 XenonIce
+#xenonicelp@gmail.com
 
 #This program is free software: you can redistribute it and/or modify
 #it under the terms of the GNU General Public License as published by
